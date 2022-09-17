@@ -14,10 +14,36 @@ BackendTitle: The Backend of this project was provided by restcountries.com. The
 BackendLink: Data Source
 ---
 
-# Country Information
 
 
 
 
+# Light Theme:
 
-![The project is developed with Nestjs backend and Angular frontend](Bunny-bookmark.jpg)
+This project has two themes light mode and dark mode.
+
+![The project is developed with Nestjs backend and Angular frontend](light-theme.png)
+
+# Dark Theme:
+
+The dark mode can be activated by clicking the dark mode button.
+
+![The project is developed with Nestjs backend and Angular frontend](Dark-theme.png)
+
+# Search Countries:
+
+The left search input on the left can be used to filter countries by name.
+
+![The project is developed with Nestjs backend and Angular frontend](search.png)
+
+# Search by Region:
+
+Countries can also be filltered by regions. All the continents are available and there countries will be filltered.
+
+![The project is developed with Nestjs backend and Angular frontend](filter-by-region.png)
+
+# Single Country Information:
+
+Once a country card is clicked, the user will be directed to the page containing extensive information about the selected country.
+
+![The project is developed with Nestjs backend and Angular frontend](single-country-info.png)
