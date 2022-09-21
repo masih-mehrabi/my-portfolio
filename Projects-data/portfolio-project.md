@@ -3,7 +3,7 @@ title: Masih Portfolio
 excerpt: This Project was developed to showcase my developed projects and the skills used in said projects. Nextjs was used to develop this project. The data of the contact page will be saved on MongoDb Cluster.
 image: portfolio-image.jpg
 isFeatured:	true
-date: '2022-06-09'
+date: '2022-08-09'
 frontendTitle: The frontend of this project has been developed with nextjs a React framework and deployed on Vercel. The code can be viewed on github. If you are in this website, you are already here
 GithubTitle: Github
 Website: Website

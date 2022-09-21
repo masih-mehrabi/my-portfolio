@@ -1,16 +1,5 @@
 import Image from 'next/image'; 
-import {
-    FacebookShareButton,
-    FacebookIcon,
-    PinterestShareButton,
-    PinterestIcon,
-    RedditShareButton,
-    RedditIcon,
-    WhatsappShareButton,
-    WhatsappIcon,
-    LinkedinShareButton,
-    LinkedinIcon,
-  } from 'next-share';
+
 
 import styles from './hero.module.css';
 
@@ -29,14 +18,7 @@ function Hero () {
              I am a fullstack web developer based in Munich, holding a bachelor degree in computer science specializing in software engineering and
               studying Masters in Informatics at Tu Munich.
          </p>
-         <div>
-            <LinkedinShareButton url=''>
-                <LinkedinIcon size={32} />
-            </LinkedinShareButton>
-            <WhatsappShareButton>
-                <WhatsappIcon size={32} />
-            </WhatsappShareButton>
-         </div>
+         
      </section>
  );
 

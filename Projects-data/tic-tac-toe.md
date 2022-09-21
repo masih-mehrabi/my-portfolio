@@ -1,6 +1,6 @@
 ---
 title: 'Tic - Tac - Toe'
-date: '2022-09-11'
+date: '2022-07-11'
 image: tic-tac-toe.png
 excerpt: This project has been developed with Angular. It is the famous tic-tac-toe game. For more Information about the project click here.
 isFeatured: true

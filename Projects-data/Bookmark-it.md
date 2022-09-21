@@ -1,6 +1,6 @@
 ---
 title: 'Bookmark it!'
-date: '2022-07-06'
+date: '2022-09-06'
 image: Nestjs-Angular.png
 excerpt: This project has been developed with Nestjs backend and Angular frontend. A breif summary of the project with required links are available below. For complete documentation of this project Click here. 
 isFeatured: true

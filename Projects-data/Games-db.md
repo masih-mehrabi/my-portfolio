@@ -1,6 +1,6 @@
 ---
 title: 'Games-db'
-date: '2022-07-05'
+date: '2022-09-05'
 image: games-db.jpg
 excerpt: This project has been developed with Angular framework. It is website that shows information about the games. The data is provied by a public api (rapidapi). A breif summary of the project with required links are available below. For complete documentation of this project Click here. 
 isFeatured: true

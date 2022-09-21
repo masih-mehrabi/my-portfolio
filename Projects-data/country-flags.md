@@ -1,6 +1,6 @@
 ---
 title: 'Country Information'
-date: '2022-09-11'
+date: '2022-09-01'
 image: country-flags-icon.png
 excerpt: This project has been developed with Angular frontend. The backend of this project is an open source RestApi. For complete documentation of this project Click here. 
 isFeatured: true
